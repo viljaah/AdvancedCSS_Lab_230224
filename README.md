@@ -17,7 +17,7 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 
 7. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback to your partner, focusing on strengths and areas for improvement in relation to BEM.
 
-Tips! Use the documentation on [Get BEM](https://getbem.com/) to implement the correct naming conventions properly.
+Tips! Use the documentation from [Get BEM](https://getbem.com/) to implement the correct naming conventions properly.
 
 If you need more revision on BEM, please check out the previous lectures [BEM](https://incredible-pie-c7721f.netlify.app/week4/bem/) from week 4 and [BEM and CSS: Inheritance](https://incredible-pie-c7721f.netlify.app/week5/bem_inheritance/) from week 5.
 
