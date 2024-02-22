@@ -13,7 +13,7 @@ In this exercise, you will work in pairs of two and further practice using BEM.
    
 5. After you have finished recreating one of the images using BEM, you are going to show or "swap" your codebase with your partner.
 
-6. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback to your partner focusing on strengths and areas for improvement in relation to BEM."
+6. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback to your partner, focusing on strengths and areas for improvement in relation to BEM.
 
 Tips! Use the documentation on [Get BEM](https://getbem.com/) to implement the correct naming conventions properly.
 
