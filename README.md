@@ -1,3 +1,3 @@
-# AdvancedCSS_Lab_230224
+# Advanced CSS Lab 23.02.2024
 
 Exercise
