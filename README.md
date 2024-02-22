@@ -11,11 +11,9 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 
 4. As you are in pairs, each group member will be responsible for recreating **one** of the images. Collaboratively decide which image each of you will recreate.
 
-5. You will need to create a new feature branch when working on a specific functionality or section. After creating a new element, try to commit and push changes to GitHub. 
+5. You will need to create a new feature branch when working on a specific functionality or section. After creating a new element, try to commit and push the changes to GitHub, and create a pull request for that branch before creating a new branch for the next feature. Please look for merge conflicts and try to solve them before continuing. 
    
-6. After you have finished recreating one of the images using BEM, create a pull request for your partner to review.  
-
-7. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback to your partner, focusing on strengths and areas for improvement in relation to BEM.
+6. After you have finished recreating one of the images using BEM, you will give feedback to each other by commenting on the pull requests created by your partner. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback, focusing on strengths and areas for improvement in relation to BEM.
 
 ## Resources
 ### BEM
@@ -26,7 +24,8 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 - See the previous lecture about [Remote Repository Collaboration](https://incredible-pie-c7721f.netlify.app/week6/githubcollaboration/) from week 6.
 - How to [fork a repository in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 - How to [commit changes to GitHub](https://github.com/git-guides/git-commit).
-- How to [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
+- How to [create pull requests in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
 - More information about Git commands can be found [here](https://docs.github.com/en/get-started/using-git/about-git).
 - How to [comment on pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request).
+- How to [solve merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).
 
