@@ -11,7 +11,7 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 
 4. As you are in pairs, each group member will be responsible for recreating **one** of the images. Collaboratively decide which image each of you will recreate.
 
-5. You will need to create a new feature branch when working on a specific functionality or section. After creating a new element, try to commit and push the changes to GitHub, and create a pull request for that branch before creating a new branch for the next feature. Please look for merge conflicts and try to solve them before continuing. 
+5. You will need to create a new feature branch when working on a specific functionality or section. Once you've created a new element, attempt to commit and push the changes to GitHub. Before moving on to the next feature, make sure to create a pull request for the current branch. Please look for merge conflicts and try to solve them before continuing. 
    
 6. After you have finished recreating one of the images using BEM, you will give feedback to each other by commenting on the pull requests created by your partner. Review each other's completed tasks, engaging in a discussion. Provide constructive feedback, focusing on strengths and areas for improvement in relation to BEM.
 
