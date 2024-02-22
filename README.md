@@ -5,7 +5,7 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 
 1. Get into groups of two.
 
-2. One person in the group will [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the repository from GitHub and download it to your local machine. Share the forked GitHub project with your partner, as you will be working in the same repository. Open the repository in your preferred text editor (for example VSCode).
+2. One person in the group will Fork the repository from GitHub and download it to your local machine. Share the forked GitHub project with your partner, as you will be working in the same repository. Open the repository in your preferred text editor (for example VSCode).
 
 3. In groups of two, you will recreate the two attached photos retrieved from Finn.no using HTML & CSS with BEM. You are only going to recreate the layout, it does not have to be functional. You will find the images under the "**img**" folder.
 
@@ -24,8 +24,9 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 
 ### GitHub
 - See the previous lecture about [Remote Repository Collaboration](https://incredible-pie-c7721f.netlify.app/week6/githubcollaboration/) from week 6.
-- [How to commit changes to GitHub](https://github.com/git-guides/git-commit).
-- [How to create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
+- How to [fork a repository in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+- How to [commit changes to GitHub](https://github.com/git-guides/git-commit).
+- How to [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
 - More information about Git commands can be found [here](https://docs.github.com/en/get-started/using-git/about-git).
-- [How to comment on pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request).
+- How to [comment on pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request).
 
