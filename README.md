@@ -24,7 +24,7 @@ In this exercise, you will work in pairs of two and further practice using BEM.
 - See the previous lecture about [Remote Repository Collaboration](https://incredible-pie-c7721f.netlify.app/week6/githubcollaboration/) from week 6.
 - How to [fork a repository in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
 - How to [commit changes to GitHub](https://github.com/git-guides/git-commit).
-- How to [create pull requests in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
+- How to create pull requests in GitHub [1](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) and [2](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request).
 - More information about Git commands can be found [here](https://docs.github.com/en/get-started/using-git/about-git).
 - How to [comment on pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request).
 - How to [solve merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).
