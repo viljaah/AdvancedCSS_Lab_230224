@@ -1,6 +1,6 @@
 # Advanced CSS Lab 23.02.2024
 
-## Exercise - BEM
+## Exercise - Recreate Layouts using BEM
 In this exercise, you will work in pairs of two and further practice using BEM. 
 
 1. Get into groups of two.
