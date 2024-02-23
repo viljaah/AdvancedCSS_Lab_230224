@@ -16,3 +16,9 @@ body{
     flex-direction: row;
     align-content: end;
 }
+
+.kategorier{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
