@@ -1,1 +1,13 @@
+body
 
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar__bjelle,
+.navbar__kryss,
+.navbar__melding,
+.navbar__profil{
+    flex-direction: row-reverse;
+}
