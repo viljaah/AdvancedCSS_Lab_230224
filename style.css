@@ -1,13 +1,18 @@
-body
+body{
+    padding: 0 100px;
+    font-family: Arial;
+}
 
-
-.navbar ul{
-    display: flex;
+#searchbar{
+    width: 100%;
+    height: 50px;
 }
 
 .navbar__bjelle,
 .navbar__kryss,
 .navbar__melding,
 .navbar__profil{
-    flex-direction: row-reverse;
+    display: flex;
+    flex-direction: row;
+    align-content: end;
 }
