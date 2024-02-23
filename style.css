@@ -1,1 +1,46 @@
 
+nav{
+    text-align: end;
+    z-index: 1;
+    width: 100%;
+}
+.nav__menu{
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    margin: 0;
+}
+.nav__menu > li{
+    display: inline-block;
+    font-size: 1em;
+    background-color: rgb(255, 255, 255);
+    margin-right: 2em;
+}
+
+form {
+    margin: 20px;
+    text-align: center;
+}
+input[type="search"] {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 3px;
+    width: 1000px;
+}
+
+.category__list {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: auto auto;
+    gap: 10px;
+}
+.category__list li {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.ensom__paragraf {
+    color: blue;
+}
